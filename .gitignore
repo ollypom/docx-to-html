@@ -24,3 +24,6 @@ yarn-error.log*
 
 packaged.yaml
 samconfig.toml
+
+*.docx
+*.html
